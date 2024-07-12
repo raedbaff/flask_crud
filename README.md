@@ -15,11 +15,11 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Fla
 2. Create a .env file: MONGO_URL=YOUR MONGODB URL
 3. Create and activate a virtual environment:
 - On Windows:
-python -m venv venv
-venv\Scripts\activate
+1. python -m venv venv
+2. venv\Scripts\activate
 - On macOS and Linux:
-python -m venv venv
-source venv/bin/activate
+1. python -m venv venv
+2. source venv/bin/activate
 - Install the necessary dependencies:
 pip install -r requirements.txt
 
